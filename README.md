@@ -20,3 +20,4 @@ Website portofolio sederhana yang dibuat menggunakan HTML dan Bootstrap 5. Halam
 
 - HTML5
 - Bootstrap 5.3.3 melalui jsDelivr CDN
+........
